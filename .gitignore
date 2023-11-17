@@ -1,5 +1,8 @@
-*
-!.gitignore
-!odoo-venv
-!odoo
-!.gitconfig
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.lesshst
+.local/
+.profile
+.zcompdump
